@@ -1,17 +1,10 @@
 # simple_slider_game
 
-A new Flutter project.
+A simple game created with Flutter but might as well frustrating when gameplay didn't goes well.
 
-## Getting Started
+Flutterで作った簡単なゲームでした。
 
-This project is a starting point for a Flutter application.
+## About this game
+Drag or slide the slider to any position, try your best to reach as close as possible to the number given and challenge the streak.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# SimpleSliderGame" 
+スライダを任意の位置にスライドさせて、与えられた数に到達し、連続して挑戦するために全力を尽くしなさい。
